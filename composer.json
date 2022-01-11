@@ -1,22 +1,8 @@
 {
-    "name": "furkankadioglu/efatura",
+    "name": "nakoman/efatura",
     "description": "EFatura",
-    "keywords": [
-        "efatura",
-        "fatura",
-        "e-fatura",
-        "e-arşiv",
-        "earşiv"
-    ],
-    "homepage": "https://github.com/furkankadioglu/efatura",
+    "homepage": "https://github.com/nakoman/efatura",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Furkan Kadıoğlu",
-            "email": "furkan.kadioglu@gmail.com",
-            "homepage": "http://furkankadioglu.com"
-        }
-    ],
     "require": {
         "php": "^7.3|^8.0",
         "guzzlehttp/guzzle": "^7.0.1",
@@ -29,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "furkankadioglu\\eFatura\\": "src/"
+            "nakoman\\efatura\\": "src/"
         }
     },
     "scripts": {
