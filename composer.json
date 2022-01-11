@@ -19,8 +19,8 @@
         }
     ],
     "require": {
-        "php": ">=5.5.9 <=7.4.15",
-        "guzzlehttp/guzzle": "^6.5|^7.0",
+        "php": "^7.3|^8.0",
+        "guzzlehttp/guzzle": "^7.0.1",
         "ramsey/uuid": "^3.7|^4.0",
         "kwn/number-to-words": "^1.9",
         "mpdf/mpdf": "^8.0"
